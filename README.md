@@ -8,3 +8,4 @@ A list of places to go to for programming help
 * [Google Groups](http://groups.google.com)
 * [GitHub Code Search](https://github.com/search)
 * /r/language/topic subreddit on [Reddit](http://reddit.com)
+* Mailing Lists
